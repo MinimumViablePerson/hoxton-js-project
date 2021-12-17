@@ -1,13 +1,11 @@
-console.log('Hello')
-
-function showListOfItems() {
+function showListOfItems () {
   console.log('Showing list of items!')
 }
 
-function showProductDetails() {
+function showProductDetails () {
   console.log('Showing product details!')
 }
 
-function goAwayIfNoStockForGivenItem() {
+function goAwayIfNoStockForGivenItem () {
   console.log('Going away if no stock for given item!')
 }
